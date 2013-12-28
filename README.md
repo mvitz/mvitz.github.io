@@ -1,6 +1,6 @@
-### [My homepage](http://mvitz.github.io)
+### [My homepage](http://mvitz.de)
 
-The [Jekyll](http://jekyllrb.com/) source for [http://mvitz.github.io](http://mvitz.github.io).
+The [Jekyll](http://jekyllrb.com/) source for [http://mvitz.de](http://mvitz.de).
 
 ![](https://raw.github.com/mvitz/mvitz.github.io/master/screenshots/home.png)
 

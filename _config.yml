@@ -3,4 +3,4 @@ exclude: [Rakefile, README.md, screenshots]
 markdown: redcarpet
 
 safe: true
-url:  http://mvitz.github.io
+url:  http://mvitz.de
