@@ -1,0 +1,6 @@
+exclude: [Rakefile, README.md, screenshots]
+
+markdown: redcarpet
+
+safe: true
+url:  http://mvitz.github.io
