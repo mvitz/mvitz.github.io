@@ -24,6 +24,11 @@ header .h3 {
   border-bottom: 1px solid #e5e5e5;
 }
 
+.my-image {
+  float: left;
+  margin-right: 15px;
+}
+
 footer {
   border-top: 1px solid #e5e5e5;
   color: #777;
