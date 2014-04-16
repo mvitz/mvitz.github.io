@@ -5,3 +5,11 @@ markdown: redcarpet
 safe: true
 url:  http://mvitz.de
 baseurl: 
+
+navigation:
+  - title: Home
+    url: 
+    icon: home
+  - title: Contact
+    url: contact/
+    icon: user
