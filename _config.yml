@@ -1,4 +1,4 @@
-exclude: [Rakefile, README.md, screenshots]
+exclude: [Gemfile, Gemfile.lock, Rakefile, README.md, screenshots]
 
 markdown: redcarpet
 
