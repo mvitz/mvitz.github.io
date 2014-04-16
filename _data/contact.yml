@@ -1,0 +1,24 @@
+- id: twitter
+  url: https://twitter.com/michaelvitz
+  title: michaelvitz on Twitter
+  icon: twitter
+- id: facebook
+  url: https://facebook.com/michael.vitz
+  title: Michael Vitz on Facebook
+  icon: facebook
+- id: gplus
+  url: https://google.com/+MichaelVitz
+  title: Michael Vitz on Google Plus
+  icon: google-plus
+- id: xing
+  url: http://xing.to/michaelvitz
+  title: Michael Vitz on Xing
+  icon: xing
+- id: skype
+  url: skype:michael.vitz?add
+  title: michael.vitz on Skype
+  icon: skype
+- id: gmail
+  url: mailto:vitz.michael@googlemail.com
+  title: vitz.michael@googlemail.com
+  icon: envelope
