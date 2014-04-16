@@ -11,10 +11,11 @@
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        {% for page in site.data.pages %}
-        <li>
-          <a href="{{ site.baseurl }}/{{ page.url }}" title="{{ page.title }}">
-            <span class="glyphicon glyphicon-{{ page.icon }}"></span> {{ page.title }}
+        {% for link in site.data.pages %}
+        {% assign current = link.url | prepend: '/' | append: 'index.html' %}
+        <li{% if page.url == current  %} class="active"{% endif %}>
+          <a href="{{ site.baseurl }}/{{ link.url }}" title="{{ link.title }}">
+            <span class="glyphicon glyphicon-{{ link.icon }}"></span> {{ link.title }}
           </a>
         </li>
         {% endfor %}
