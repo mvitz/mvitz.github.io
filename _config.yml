@@ -4,3 +4,4 @@ markdown: redcarpet
 
 safe: true
 url:  http://mvitz.de
+baseurl: 
