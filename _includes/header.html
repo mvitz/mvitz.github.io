@@ -11,10 +11,10 @@
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        {% for link in site.navigation %}
+        {% for page in site.data.pages %}
         <li>
-          <a href="{{ site.baseurl }}/{{ link.url }}" title="{{ link.title }}">
-            <span class="glyphicon glyphicon-{{ link.icon }}"></span> {{ link.title }}
+          <a href="{{ site.baseurl }}/{{ page.url }}" title="{{ page.title }}">
+            <span class="glyphicon glyphicon-{{ page.icon }}"></span> {{ page.title }}
           </a>
         </li>
         {% endfor %}

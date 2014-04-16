@@ -1,0 +1,8 @@
+- id: home
+  url: 
+  title: Home
+  icon: home
+- id: contact
+  url: contact/
+  title: Contact
+  icon: user
