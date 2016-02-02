@@ -1,6 +1,6 @@
 exclude: [Gemfile, Gemfile.lock, Rakefile, README.md, screenshots]
 
-markdown: redcarpet
+markdown: kramdown
 
 safe: true
 url:  http://mvitz.de
