@@ -3,5 +3,3 @@ exclude: [Gemfile, Gemfile.lock, Rakefile, README.md, screenshots]
 markdown: kramdown
 
 safe: true
-url:  http://mvitz.de
-baseurl: 
