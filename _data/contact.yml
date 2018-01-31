@@ -2,10 +2,18 @@
   url: https://twitter.com/michaelvitz
   title: michaelvitz on Twitter
   icon: twitter
+- id: github
+  url: https://github.com/mvitz
+  title: mvitz on Github
+  icon: github
 - id: xing
   url: https://xing.to/michaelvitz
   title: Michael Vitz on Xing
   icon: xing
+- id: innoq
+  url: https://www.innoq.com/en/staff/michael-vitz/
+  title: michael-vitz on INNOQ
+  icon: industry
 - id: gmail
   url: mailto:vitz.michael@googlemail.com
   title: vitz.michael@googlemail.com
