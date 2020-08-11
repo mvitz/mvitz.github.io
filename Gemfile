@@ -1,3 +1,3 @@
-#ruby=2.5.8
+#ruby=2.7.1
 source 'https://rubygems.org'
 gem 'github-pages'
