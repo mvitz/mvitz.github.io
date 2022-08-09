@@ -1,8 +1,6 @@
 - id: home
   url: 
-  title: Home
-  icon: home
+  title: About me
 - id: contact
   url: contact/
   title: Contact
-  icon: user

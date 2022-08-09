@@ -2,12 +2,12 @@
 layout: default
 title: Contact
 ---
-<h1 class="heading">Contact</h1>
-<ul class="nav nav-pills nav-stacked">
+<h1>Contact</h1>
+<ul>
   {% for contact in site.data.contact %}
   <li>
     <a href="{{ contact.url }}" title="{{ contact.title }}">
-      <i class="fa fa-fw fa-lg fa-{{ contact.icon }}"></i> {{ contact.title }}
+      {{ contact.title }}
     </a>
   </li>
   {% endfor %}
