@@ -1,6 +1,5 @@
 ---
 layout: default
-title: About me
 ---
 <h2>About me</h2>
 <img src="{{ site.baseurl }}/images/MichaelVitz.jpg" alt="Michael Vitz" />
@@ -20,3 +19,14 @@ title: About me
   publish articles about JVM, infrastructure, and architectural topics every
   two months.
 </p>
+
+<h2>Contact</h2>
+<ul>
+  {% for contact in site.data.contact %}
+  <li>
+    <a href="{{ contact.url }}" title="{{ contact.title }}" rel="me">
+      {{ contact.title }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
