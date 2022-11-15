@@ -2,8 +2,8 @@
   url: https://twitter.com/michaelvitz
   title: '@michaelvitz on Twitter'
 - id: mastodon
-  url: https://nrw.social/@michaelvitz
-  title: '@michaelvitz@nrw.social on mastodon'
+  url: https://innoq.social/@michaelvitz
+  title: '@michaelvitz@innoq.social on mastodon'
 - id: github
   url: https://github.com/mvitz
   title: mvitz on Github
