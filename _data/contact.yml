@@ -1,18 +1,18 @@
-- id: twitter
-  url: https://twitter.com/michaelvitz
-  title: '@michaelvitz on Twitter'
-- id: mastodon
-  url: https://innoq.social/@michaelvitz
-  title: '@michaelvitz@innoq.social on mastodon'
-- id: github
-  url: https://github.com/mvitz
-  title: mvitz on Github
-- id: xing
-  url: https://xing.to/michaelvitz
-  title: Michael Vitz on Xing
-- id: innoq
-  url: https://www.innoq.com/en/staff/michael-vitz/
-  title: michael-vitz on INNOQ
 - id: gmail
   url: mailto:vitz.michael@googlemail.com
   title: vitz.michael@googlemail.com
+- id: xing
+  url: https://xing.to/michaelvitz
+  title: Michael Vitz on Xing
+- id: mastodon
+  url: https://innoq.social/@michaelvitz
+  title: '@michaelvitz@innoq.social on mastodon'
+- id: twitter
+  url: https://twitter.com/michaelvitz
+  title: '@michaelvitz on Twitter'
+- id: github
+  url: https://github.com/mvitz
+  title: mvitz on Github
+- id: innoq
+  url: https://www.innoq.com/en/staff/michael-vitz/
+  title: michael-vitz on INNOQ
