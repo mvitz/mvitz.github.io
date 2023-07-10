@@ -1,6 +1,9 @@
 - id: gmail
   url: mailto:vitz.michael@googlemail.com
   title: vitz.michael@googlemail.com
+- id: linkedin
+  url: https://www.linkedin.com/in/michaelvitz/
+  title: Michael Vitz on LinkedIn
 - id: xing
   url: https://xing.to/michaelvitz
   title: Michael Vitz on Xing
