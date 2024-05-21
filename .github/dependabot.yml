@@ -3,11 +3,11 @@ updates:
   - package-ecosystem: "bundler"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "monthly"
     allow:
       - dependency-type: "all"
     groups:
-      all:
+      bundler:
         patterns:
           - "*"
 
