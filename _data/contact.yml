@@ -13,9 +13,9 @@
 - id: mastodon
   url: https://innoq.social/@michaelvitz
   title: '@michaelvitz@innoq.social on Mastodon'
-- id: twitter
+- id: x
   url: https://twitter.com/michaelvitz
-  title: '@michaelvitz on Twitter'
+  title: '@michaelvitz on X'
 - id: github
   url: https://github.com/mvitz
   title: 'mvitz on GitHub'
