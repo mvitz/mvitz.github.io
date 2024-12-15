@@ -12,13 +12,13 @@
   title: '@michaelvitz.bsky.social on Bluesky'
 - id: mastodon
   url: https://innoq.social/@michaelvitz
-  title: '@michaelvitz@innoq.social on mastodon'
+  title: '@michaelvitz@innoq.social on Mastodon'
 - id: twitter
   url: https://twitter.com/michaelvitz
   title: '@michaelvitz on Twitter'
 - id: github
   url: https://github.com/mvitz
-  title: mvitz on Github
+  title: 'mvitz on GitHub'
 - id: innoq
   url: https://www.innoq.com/en/staff/michael-vitz/
   title: 'michael-vitz on INNOQ'
