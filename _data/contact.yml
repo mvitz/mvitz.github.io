@@ -7,6 +7,9 @@
 - id: xing
   url: https://xing.to/michaelvitz
   title: Michael Vitz on Xing
+- id: bluesky
+  url: https://bsky.app/profile/michaelvitz.bsky.social
+  title: '@michaelvitz.bsky.social on Bluesky'
 - id: mastodon
   url: https://innoq.social/@michaelvitz
   title: '@michaelvitz@innoq.social on mastodon'
