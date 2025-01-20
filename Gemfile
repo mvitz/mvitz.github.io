@@ -1,4 +1,4 @@
-#ruby=3.3.6
+#ruby=3.4.1
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.3.4"
